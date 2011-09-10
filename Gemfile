@@ -29,7 +29,7 @@ gem 'sqlite3'
 # group :development, :test do
 #   gem 'webrat'
 # end
-gem 'rake', '0.8.7'
+gem 'rake', '0.9.2'
 group :test, :development do
 gem 'rspec-rails', '>= 2.3.0'
 gem 'capybara', '0.3.9'
